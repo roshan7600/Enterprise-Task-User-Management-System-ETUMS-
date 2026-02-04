@@ -145,6 +145,7 @@ Enterprise Task & User Management System/
 └── venv/
 
 🔑 API Endpoints (Sample)
+
 Authentication
 POST /api/auth/login/
 POST /api/auth/refresh/
