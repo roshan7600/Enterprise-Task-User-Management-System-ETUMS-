@@ -1,0 +1,111 @@
+[2026-02-04 02:06:14,287] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:06:46,009] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\settings\base.py changed, reloading.
+[2026-02-04 02:07:07,254] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:07:48,313] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:07:49,375] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:07:51,880] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:07:52,875] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:07:54,393] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:07:55,364] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:07:58,977] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:07:59,922] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:08:02,500] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:08:03,492] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:08:07,094] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:08:07,973] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 02:08:19,875] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\tasks\views.py changed, reloading.
+[2026-02-04 02:08:20,903] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:09:02,179] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:09:55,058] INFO django.server "POST /api/auth/login/ HTTP/1.1" 200 875
+[2026-02-04 14:11:08,619] ERROR apps Task update failed | user=1 | error=No Task matches the given query.
+[2026-02-04 14:11:08,626] WARNING django.server "PUT /api/tasks/9999/ HTTP/1.1" 404 45
+[2026-02-04 14:21:26,770] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\settings\base.py changed, reloading.
+[2026-02-04 14:21:28,081] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:21:35,141] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\settings\base.py changed, reloading.
+[2026-02-04 14:21:36,282] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:21:47,658] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\settings\base.py changed, reloading.
+[2026-02-04 14:21:48,728] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:22:28,815] ERROR apps Task update failed | user=1 | error=No Task matches the given query.
+[2026-02-04 14:22:28,822] WARNING django.request Not Found: /api/tasks/9999/
+[2026-02-04 14:22:28,823] WARNING django.server "PUT /api/tasks/9999/ HTTP/1.1" 404 45
+[2026-02-04 14:44:49,948] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 14:45:07,143] INFO django.server "GET /api/docs/ HTTP/1.1" 200 4674
+[2026-02-04 14:45:07,687] INFO django.server "GET /api/schema/ HTTP/1.1" 200 23469
+[2026-02-04 14:46:52,257] INFO django.server "POST /api/auth/login/ HTTP/1.1" 200 875
+[2026-02-04 16:05:32,139] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:05:51,200] WARNING django.request Not Found: /api/users/
+[2026-02-04 16:05:51,202] WARNING django.server "GET /api/users/ HTTP/1.1" 404 6943
+[2026-02-04 16:05:51,288] WARNING django.request Not Found: /favicon.ico
+[2026-02-04 16:05:51,290] WARNING django.server "GET /favicon.ico HTTP/1.1" 404 3060
+[2026-02-04 16:06:03,384] WARNING django.request Not Found: /
+[2026-02-04 16:06:03,385] WARNING django.server "GET / HTTP/1.1" 404 3009
+[2026-02-04 16:06:19,240] WARNING django.request Not Found: /api/users/
+[2026-02-04 16:06:19,241] WARNING django.server "GET /api/users/ HTTP/1.1" 404 6943
+[2026-02-04 16:21:36,812] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 16:21:37,921] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:22:23,659] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 16:22:24,636] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:24:29,309] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 16:24:30,377] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:25:14,930] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 16:25:16,017] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:25:40,240] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 16:25:41,349] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:27:19,720] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\urls.py changed, reloading.
+[2026-02-04 16:27:20,776] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:27:57,669] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\urls.py changed, reloading.
+[2026-02-04 16:27:58,619] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:28:00,417] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\urls.py changed, reloading.
+[2026-02-04 16:28:01,426] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:28:05,906] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\urls.py changed, reloading.
+[2026-02-04 16:28:06,805] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:36:40,706] INFO django.utils.autoreload D:\Enterprise Task & User Management System\etums\etums\urls.py changed, reloading.
+[2026-02-04 16:36:41,376] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 16:37:04,234] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 16:37:04,235] WARNING django.server "GET /api/users/ HTTP/1.1" 401 5142
+[2026-02-04 16:45:12,927] INFO django.server "POST /api/auth/login/ HTTP/1.1" 200 875
+[2026-02-04 16:47:16,906] INFO django.server "GET /api/docs/ HTTP/1.1" 200 4674
+[2026-02-04 16:47:17,297] INFO django.server "GET /api/schema/ HTTP/1.1" 200 28452
+[2026-02-04 16:49:27,647] WARNING django.request Not Found: /api/user/
+[2026-02-04 16:49:27,648] WARNING django.server "GET /api/user/ HTTP/1.1" 404 8638
+[2026-02-04 16:49:46,257] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 16:49:46,259] WARNING django.server "GET /api/users/ HTTP/1.1" 401 5142
+[2026-02-04 16:49:59,343] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 16:49:59,345] WARNING django.server "GET /api/users/?format=api HTTP/1.1" 401 5186
+[2026-02-04 16:50:03,520] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 16:50:03,522] WARNING django.server "GET /api/users/?format=api HTTP/1.1" 401 5186
+[2026-02-04 16:51:01,177] INFO django.server "GET /api/users/ HTTP/1.1" 200 297
+[2026-02-04 17:00:30,801] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:00:31,976] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:06:16,446] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:06:17,530] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:06:26,650] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:06:27,644] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:06:30,562] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:06:31,580] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:06:42,794] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:06:43,821] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:07:12,374] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:07:13,286] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:13:14,076] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:13:15,131] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:13:32,533] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:13:33,593] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:15:33,043] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:15:34,055] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:17:37,106] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:18:15,934] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 17:18:15,936] WARNING django.server "GET /api/users/?format=api HTTP/1.1" 401 5192
+[2026-02-04 17:18:18,272] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 17:18:18,274] WARNING django.server "GET /api/users/?format=api HTTP/1.1" 401 5192
+[2026-02-04 17:19:22,471] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\serializers.py changed, reloading.
+[2026-02-04 17:19:23,530] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:25:41,619] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:25:42,969] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:25:59,655] INFO django.utils.autoreload D:\Enterprise Task & User Management System\apps\accounts\views.py changed, reloading.
+[2026-02-04 17:26:00,673] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:27:03,369] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2026-02-04 17:27:08,025] WARNING django.request Not Found: /
+[2026-02-04 17:27:08,026] WARNING django.server "GET / HTTP/1.1" 404 3156
+[2026-02-04 17:27:29,867] WARNING django.request Unauthorized: /api/users/
+[2026-02-04 17:27:29,868] WARNING django.server "GET /api/users/ HTTP/1.1" 401 5148
